@@ -11,7 +11,11 @@ This will help US housing company to purchase house when the price is down in th
 #Technologies Used
 
 Python 
+
 NumPy 
+
 Pandas 
+
 Matplotlib 
+
 Seaborn 
