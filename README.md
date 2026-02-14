@@ -9,6 +9,7 @@ Analysing this is core to find most influencing factors in price of house.
 This will help US housing company to purchase house when the price is down in their new venture of Australian market by studying the behavior of people.
 
 #Technologies Used
+
 Python 
 NumPy 
 Pandas 
