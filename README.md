@@ -4,6 +4,7 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 
 #General Information
+
 The data set consists of 1140 row and 81 columns.
 Analysing this is core to find most influencing factors in price of house.
 This will help US housing company to purchase house when the price is down in their new venture of Australian market by studying the behavior of people.
