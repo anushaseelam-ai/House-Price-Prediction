@@ -1,6 +1,6 @@
-## House Price Prediction using Machine Learning
+# House Price Prediction
 
-# Project Overview
+## Project Overview
 
 In this project, I built a machine learning model to predict house prices using Python. The goal was to understand the complete ML workflow — from data preprocessing to model evaluation — using a real dataset.
 
@@ -65,7 +65,7 @@ Generated predictions on test data.
 Analyzed how well the model predicts house prices.
 
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 Data Cleaning and Preprocessing
 
@@ -79,6 +79,6 @@ Model Evaluation
 
 Python Programming
 
-# Conclusion
+## Conclusion
 
 Through this project, I implemented a complete machine learning pipeline for house price prediction. It helped me strengthen my understanding of regression models and real-world data handling.
